@@ -1,7 +1,5 @@
-### 👨‍💻 Political advocacy engineering lead at Coinbase
-### 🛡️ [Stand With Crypto open source core contributor](https://github.com/travisbloom-cb) 
-### ✍️ Founder of [@DoTheySupportIt](https://www.dotheysupportit.com/)
+# Eng + Product lead at Coinbase for Agentic Finance. 
+## In my spare time I build political advocacy tools that increase economic freedom.
 
-<br/><br/>
+### Former founder. TypeScript/Next.js geek.
 
-_Working to create more economic freedom._
